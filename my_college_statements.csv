@@ -1,0 +1,49 @@
+transaction_id,year,month,category,amount
+1,2022,September,Transportation,3.69
+2,2022,September,Restaurants & Dining,65.38
+3,2022,September,Shopping & Entertainment,779.61
+4,2022,September,Other,1.20
+5,2022,September,Education,25.00
+6,2022,October,Transportation,15.87
+7,2022,October,Groceries,5.82
+8,2022,October,Shopping & Entertainment,61.33
+9,2022,October,Cash,73.69
+10,2022,November,Transportation,1.94
+11,2022,November,Restaurants & Dining,11.66
+12,2022,November,Shopping & Entertainment,127.33
+13,2022,November,Cash,225.00
+14,2022,November,Education,51.94
+15,2022,December,Transportation,27.99
+16,2022,December,Restaurants & Dining,82.00
+17,2022,December,Shopping & Entertainment,9.64
+18,2022,December,Education,3.79
+19,2022,December,Other,0.06
+20,2023,January,Transportation,22.75
+21,2023,January,Groceries,8.22
+22,2023,January,Restaurants & Dining,18.67
+23,2023,January,Shopping & Entertainment,95.68
+24,2023,January,Education,30.00
+25,2023,January,Cash,64.00
+26,2023,January,Other,19.95
+27,2023,February,Transportation,12.04
+28,2023,February,Restaurants & Dining,60.12
+29,2023,February,Shopping & Entertainment,15.81
+30,2023,February,Cash,22.00
+31,2023,February,Other,5.40
+32,2023,March,Transportation,22.72
+33,2023,March,Restaurants & Dining,36.86
+34,2023,March,Shopping & Entertainment,25.63
+35,2023,March,Other,24.34
+36,2023,March,Cash,40.00
+37,2023,April,Transportation,9.83
+38,2023,April,Groceries,60.06
+39,2023,April,Restaurants & Dining,87.65
+40,2023,April,Shopping & Entertainment,26.29
+41,2023,April,Cash,95.50
+42,2023,April,Other,15.00
+43,2023,May,Transportation,9.99
+44,2023,May,Restaurants & Dining,28.68
+45,2023,May,Shopping & Entertainment,9.96
+46,2023,May,Cash,30.00
+47,2023,May,Education,15.35
+48,2023,May,Other,5.40
