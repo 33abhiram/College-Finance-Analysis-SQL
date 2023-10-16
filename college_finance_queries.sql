@@ -1,3 +1,5 @@
+-- language: SQL
+
 # This is my SQL code, written in MySQL Workbench, that I used to create queries and create my 'College Finance Dashboard' in Tableau.
 
 # Total spent in the year
