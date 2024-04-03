@@ -1,4 +1,5 @@
 # College Finance Analysis Project
+This project was implemented in July 2023 by Abhiram Naredla
 
 ## Project Goal
 The goal of this project is to gain a comprehensive understanding of my financial activities during my freshman year of college. I was curious about how I managed my finances during my first year being independent, so I decided to use my data analytics knowledge to find out, and definitely learnt a lot!
