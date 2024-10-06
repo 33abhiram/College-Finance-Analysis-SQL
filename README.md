@@ -1,5 +1,5 @@
 # Finance Analysis Dashboard Project
-This project was implemented in July 2023 by Abhiram Naredla.
+
 ## Final Dashboard
 https://public.tableau.com/app/profile/abhiram.naredla/viz/my_Finance_Dashboard/Dashboard1
 
